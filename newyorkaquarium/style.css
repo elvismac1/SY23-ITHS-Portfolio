@@ -1,0 +1,16 @@
+body{
+ background-image: url(https://upload.wikimedia.org/wikipedia/commons/8/89/New_York_Aquarium_by_David_Shankbone.jpg);
+ 
+}
+p{
+    color:black;
+    font-size:20px;
+    text-align:center;
+}
+h2{
+    text-align:center;
+}
+img{
+    height:350px;
+    width:350px;
+}
